@@ -28,4 +28,4 @@ flow. The code for the same is also given along with rest of the materials.
 
 
 ## PS
-The complete work can be read in the desertation report shared herewith. The hypertuning of parameters is also given in detail
+The complete work can be read in the dissertation report shared herewith. The hypertuning of parameters is also given in detail
